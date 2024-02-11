@@ -10,6 +10,9 @@ Please go thorugh the included project report for detailed explaination.
 ## Final Classification Result
 ![alt text](https://github.com/Jetty53/Indian-Sign-Language-Recognition/blob/master/Sample_Images/Final_prediction_chart.png)
 
+## Working Demo of the Project
+![alt text](https://github.com/Jetty53/Indian-Sign-Language-Recognition/blob/master/Sample_Images/Project_demo.png)
+
 ## Future Works
 - Gather more datasets from different people.
 - Use image augmentation, image transformation, and image scaling for better real-life prediction.
