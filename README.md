@@ -4,3 +4,16 @@ This project aims to develop a robust system for recognizing and interpreting In
 
 ## WorkFlow model of the project
 ![alt text](https://github.com/Jetty53/Indian-Sign-Language-Recognition/blob/master/Sample_Images/ISL_WorkFlow_no_color.jpg)
+
+Please go thorugh the included project report for detailed explaination.
+
+## Final Classification Result
+![alt text](https://github.com/Jetty53/Indian-Sign-Language-Recognition/blob/master/Sample_Images/Final_prediction_chart.png)
+
+## Future Works
+- Gather more datasets from different people.
+- Use image augmentation, image transformation, and image scaling for better real-life prediction.
+- Try to decrease the final prediction time so that the prediction can happen more quickly.
+- Find a way to predict two of the same expressions consecutively.
+- ISL expressions include not only hand gestures but also facial expressions and poses. This project is done using only the hand and pose. Working on facial expressions is still in progress.
+- Without using shift characters for model shifting, we can use model calibration algorithms like temperature scaling to calibrate the model to give a more realistic confidence score, and model shift can happen based on that confidence score.
